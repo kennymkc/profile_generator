@@ -31,10 +31,3 @@ rl.question('What is your name? Nicknames are also acceptable :)', (answer) => {
     });
   });
 });
-
-
-//rl.question('What do you listen to while doing that?', (answer) => {
-//  console.log(`${answer}? They're my favourite!`);
-//
-//  rl.close();
-//});
